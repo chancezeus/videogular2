@@ -4,15 +4,16 @@
 **/.DS_Store
 node_modules
 npm-debug.log
-**/*.js
-**/*.js.map
-**/*.d.ts
+#**/*.js
+#**/*.js.map
+#**/*.d.ts
 **/*.metadata.json
 coverage
 compiled
 docs/_book
 !karma.conf.js
 !karma-test-shim.js
+package-lock.json
 
 #################
 ## JetBrains
